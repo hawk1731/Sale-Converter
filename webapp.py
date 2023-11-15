@@ -1279,8 +1279,8 @@ def Seller():
     st.title("Sale Converter :office: :bar_chart:")
    
 
-    emoji_image = Image.open(r"C:\Users\GHSL\Desktop\GENERATOR DATA\logo\Guardian.jpg")
-    st.image(emoji_image,width=100)
+    # emoji_image = Image.open(r"C:\Users\GHSL\Desktop\GENERATOR DATA\logo\Guardian.jpg")
+    # st.image(emoji_image,width=100)
 
    
 
